@@ -1,0 +1,26 @@
+THABO'S CORNER STORE — SALES INSIGHTS SYSTEM
+
+Student Name: Liyema Mbalekwa
+
+Github Repository URL : https://github.com/liyemambalekwa/KM04-KM05-Integrated-Project.git
+
+Project Contents:
+- PLAN.md: Project plan
+- starter_code/data_cleaning.py: Data cleaning
+- starter_code/database.py: SQLite database and SQL queries
+- starter_code/analysis.py: Sales analysis
+- starter_code/visualize.py: Sales charts
+- starter_code/security.py: Password hashing and access control
+- starter_code/main.py: Main program
+- starter_code/README.md: Documentation, cleaning decisions, security reflection and business insights
+- starter_code/store.db: SQLite database
+- starter_code/revenue_per_product.png: Revenue bar chart
+- starter_code/monthly_trend.png: Monthly sales trend chart
+
+How to Run:
+1. Install the required packages using: pip install -r requirements.txt
+2. Open the starter_code folder in the terminal.
+3. Run: python main.py
+4. Enter the sample project password when prompted: Thabo2026!
+
+Note: The sample password is for this learning project only. It should not be reused for personal accounts.
